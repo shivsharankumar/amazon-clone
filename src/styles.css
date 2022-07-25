@@ -1,0 +1,45 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.card{
+  background: #fff;
+    height: 100%;
+    position: relative;
+    margin-bottom: 0;
+    margin-top: 0;
+    overflow: hidden;
+    padding-top: 20px;
+    max-width: 400px;
+    border-style: none;
+    
+}
+.img{
+  width: 50px;
+  height: auto;
+  
+}
+
+#aunder {
+  text-decoration: none;
+}
+.boxes{
+  
+  width:350px;
+  /* box-shadow : none; */
+  
+}
+.plabel{
+  width: 100%;
+  border : 0;
+  word-wrap: break-word;
+  
+}
+.center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
